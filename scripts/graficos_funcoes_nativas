@@ -22,7 +22,7 @@
 # um guia prático em linguagem R para docentes. Toledo: Universidade Tecnológica Federal do 
 # Paraná (UTFPR), 2026. Scripts e materiais suplementares disponíveis em: <URL do GitHub>. Acesso em: <data>.
 #
-# Última atualização: <18-01-2026>
+# Última atualização: <19-01-2026>
 # ===============================================================
 
 
