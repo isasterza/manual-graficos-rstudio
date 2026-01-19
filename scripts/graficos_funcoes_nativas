@@ -3,17 +3,17 @@
 #
 # Autoria: Isabella Sterza de Oliveira Butzen
 # Vínculo acadêmico: Dissertação (Mestrado Profissional em Matemática em Rede Nacional – PROFMAT)
-# Produto educacional: MANUAL DIGITAL PARA CONSTRUÇÃO DE GRÁFICOS NO RSTUDIO: UM GUIA PRÁTICO EM LINGUAGEM R PARA DOCENTES
+# Recurso educacional: MANUAL DIGITAL PARA CONSTRUÇÃO DE GRÁFICOS NO RSTUDIO: UM GUIA PRÁTICO EM LINGUAGEM R PARA DOCENTES
 #
 # Finalidade do script:
-# - Reunir e documentar, de forma reprodutível, os comandos utilizados no produto educacional.
+# - Reunir e documentar, de forma reprodutível, os comandos utilizados no recurso educacional.
 # - Servir como material de apoio (apêndice e repositório) para execução, adaptação e estudo.
 #
 # Observação sobre reprodutibilidade:
 # - Este script foi organizado para fins didáticos. Alguns trechos podem exigir ajuste de caminhos
 #   (setwd, leitura de arquivos) conforme o ambiente do(a) usuário(a).
 #
-# Dados de entrada (exemplos utilizados no produto):
+# Dados de entrada (exemplos utilizados no recurso):
 # - "estudantes.csv"
 # - "estudantes_tarefas_media.csv"
 #
