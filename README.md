@@ -1,6 +1,6 @@
 # Manual Digital para Construção de Gráficos no RStudio (Linguagem R)
 
-Este repositório reúne os **scripts utilizados no Produto Educacional** vinculado à dissertação do **Mestrado Profissional em Matemática em Rede Nacional (PROFMAT)**.
+Este repositório reúne os **scripts utilizados no Recurso Educacional** vinculado à dissertação do **Mestrado Profissional em Matemática em Rede Nacional (PROFMAT)**.
 
 O objetivo é disponibilizar, de forma transparente e reprodutível, os códigos apresentados no material, apoiando docentes e estudantes na **construção de gráficos no RStudio** por meio da linguagem R.
 
