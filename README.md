@@ -8,7 +8,7 @@ O objetivo é disponibilizar, de forma transparente e reprodutível, os códigos
 **Isabella Sterza de Oliveira Butzen**
 
 ## Como citar (ABNT)
-BUTZEN, Isabella Sterza de Oliveira. **MANUAL DIGITAL PARA CONSTRUÇÃO DE GRÁFICOS NO RSTUDIO: um guia prático em linguagem R para docentes.** Toledo: UTFPR, 2026.  
+BUTZEN, Isabella Sterza de Oliveira; MARINS, Araceli Ciotti de; NAVA, Daniela Trentin. **MANUAL DIGITAL PARA CONSTRUÇÃO DE GRÁFICOS NO RSTUDIO: um guia prático em linguagem R para docentes.** Toledo: UTFPR, 2026.  
 Disponível em: *https://github.com/isasterza/manual-graficos-rstudio/tree/main*. Acesso em: *[preencher data]*.
 
 ## Estrutura do repositório
