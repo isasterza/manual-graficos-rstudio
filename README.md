@@ -5,8 +5,8 @@ Este repositório reúne os **scripts utilizados no Recurso Educacional** vincul
 O objetivo é disponibilizar, de forma transparente e reprodutível, os códigos apresentados no material, apoiando docentes e estudantes na **construção de gráficos no RStudio** por meio da linguagem R.
 
 ## Autoria
-**Isabella Sterza de Oliveira Butzen**
-**Araceli Ciotti de Marins**
+**Isabella Sterza de Oliveira Butzen;**
+**Araceli Ciotti de Marins;**
 **Daniela Trentin Nava**
 
 ## Como citar (ABNT)
